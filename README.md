@@ -1,21 +1,21 @@
 
 <h1 align="center">Hi 👋, I'm Suman Dutta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" width="400" src="https://lavkushkumar.com/wp-content/uploads/2023/01/professional-wordpress-developer.gif" alt="gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman3262&label=Profile%20views&color=0e75b6&style=flat" alt="suman3262" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suman3262" alt="suman3262" /></a> </p>
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Next Js** **aws**  **Backend technology** 
 
 - 👨‍💻 All of my projects are available at [https://sumanduttaportfolioio.netlify.app/](https://sumanduttaportfolioio.netlify.app/)
 
-- 💬 Ask me about **react,redux,java script**
+- 💬 Ask me about **react,redux,java script ,nodejs ,expressjs,mongobd,tailwind**
 
 - 📫 How to reach me **sumandutta3262@gmail.com**
 
-- ⚡ Fun fact **finding bug in code make me happy**
+- ⚡ Fun fact **Fixing bug in code makes me happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
